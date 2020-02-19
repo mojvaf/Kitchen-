@@ -1,10 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## `Kitchen Project`
 
-## Available Scripts
+We have a weekly schedule:
 
-In the project directory, you can run:
-
-### `yarn start`
+### `Five people are assigned for the job`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -66,4 +64,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # Kitchen-
